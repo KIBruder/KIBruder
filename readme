@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIBruder - Digitalisierung mit Schmackes!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Startseite</a></li>
+            <li><a href="angebot.html">Angebot</a></li>
+            <li><a href="ueber-uns.html">Über uns</a></li>
+            <li><a href="kontakt.html">Kontakt</a></li>
+            <li><a href="foerderungen.html">Förderungen</a></li>
+        </ul>
+    </nav>
+    <header>
+        <img src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg" alt="Small Business">
+        <h1>KIBruder – Digitalisierung mit Schmackes!</h1>
+    </header>
+    <main>
+        <p>Servus! KIBruder bringt dein Geschäft online – egal ob Bäckerei, Friseur oder Werkstatt. Websites, Google Ads, Förderungen bis 50.000 € – wir machen’s einfach, schnell und günstig. Mehr Kunden, null Stress!</p>
+        <a href="kontakt.html" class="button">Los geht’s!</a>
+    </main>
+</body>
+</html>
